@@ -1,0 +1,12 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/booking"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/maintenance"
+  to = "/index.html"
+  status = 200
